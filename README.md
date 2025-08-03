@@ -27,3 +27,8 @@ src="https://img.shields.io/github/followers/G0xbyte?logo=github&style=for-the-b
 <a href="http://www.github.com/G0xbyte"><img src="https://github-readme-stats.vercel.app/api?username=G0xbyte&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="G0xbyte's GitHub stats" /></a>
 
 <a href="https://github.com/G0xbyte" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0xbyte&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### School repositories
+
+<img width="1216" height="779" alt="github-repos(1)" src="https://github.com/user-attachments/assets/3dc78857-fe7f-4555-845c-4ed7c8d9c526" />
+
